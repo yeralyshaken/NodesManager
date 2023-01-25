@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yeraly.Manager.BLL\Yeraly.Manager.BLL.csproj" />
+    <ProjectReference Include="..\Yeraly.Manager.Entities\Yeraly.Manager.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

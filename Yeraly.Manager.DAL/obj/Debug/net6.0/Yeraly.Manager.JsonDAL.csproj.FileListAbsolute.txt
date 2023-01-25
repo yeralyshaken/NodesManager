@@ -1,0 +1,15 @@
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\bin\Debug\net6.0\Yeraly.Manager.JsonDAL.deps.json
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\bin\Debug\net6.0\Yeraly.Manager.JsonDAL.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\bin\Debug\net6.0\Yeraly.Manager.JsonDAL.pdb
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\bin\Debug\net6.0\Yeraly.Manager.Entities.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\bin\Debug\net6.0\Yeraly.Manager.Entities.pdb
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.csproj.AssemblyReference.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.AssemblyInfoInputs.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.AssemblyInfo.cs
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.csproj.CoreCompileInputs.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.csproj.CopyComplete
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\refint\Yeraly.Manager.JsonDAL.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\Yeraly.Manager.JsonDAL.pdb
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.DAL\obj\Debug\net6.0\ref\Yeraly.Manager.JsonDAL.dll

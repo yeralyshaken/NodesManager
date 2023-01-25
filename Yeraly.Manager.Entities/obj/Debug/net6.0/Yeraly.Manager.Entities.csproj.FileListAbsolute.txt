@@ -1,0 +1,12 @@
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\bin\Debug\net6.0\Yeraly.Manager.Entities.deps.json
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\bin\Debug\net6.0\Yeraly.Manager.Entities.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\bin\Debug\net6.0\Yeraly.Manager.Entities.pdb
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.csproj.AssemblyReference.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.AssemblyInfoInputs.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.AssemblyInfo.cs
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\refint\Yeraly.Manager.Entities.dll
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\Yeraly.Manager.Entities.pdb
+C:\Users\zhana\source\repos\NodesManager\Yeraly.Manager.Entities\obj\Debug\net6.0\ref\Yeraly.Manager.Entities.dll

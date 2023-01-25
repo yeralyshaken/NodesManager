@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="fc1a3b18581199af69a990061b32f6bc.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yeraly.Manager.BLL\Yeraly.Manager.BLL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\fc1a3b18581199af69a990061b32f6bc.jpg" />
+  </ItemGroup>
+
+</Project>

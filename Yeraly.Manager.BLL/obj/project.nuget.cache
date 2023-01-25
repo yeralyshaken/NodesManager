@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2BF2KBHdLHV4gJX7c8fMA6Kk/zKFw2I3lHhsChvpGaBOMmumo6hL+j0BZaGJKvN9F0PleuX0eOG2FiBd3d9cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhana\\source\\repos\\NodesManager\\Yeraly.Manager.BLL\\Yeraly.Manager.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
